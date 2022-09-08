@@ -198,7 +198,7 @@ header nav .form i{
 .landing{
     min-height:100vh;
     background-color:rgb(111, 120, 117);
-    background-image:url(/Images/rm373-507-x.jpg);
+    background-image:url(../Images/rm373-507-x.jpg);
     background-size: cover;
     position:relative;
 }
@@ -531,7 +531,7 @@ header nav .form i{
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
     text-align:center;
-    background-image: url(../images/stats.jpeg);
+    background-image: url(../Images/stats.jpeg);
     background-size: cover;
     position:relative;
 }
@@ -709,7 +709,7 @@ font-size:14px;
 .quote{
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
-    background-image: url(../images/quote_image2.jfif);
+    background-image: url(../Images/quote_image2.jfif);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -849,7 +849,7 @@ font-weight: 500;
 .subscribe{
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
-    background-image: url(../images/subscribe_image.jpg);
+    background-image: url(../Images/subscribe_image.jpg);
     background-size:cover;
     position:relative;
     color:white;
@@ -1003,7 +1003,7 @@ font-weight: 500;
 .footer{
 margin-top:calc(var(--section-padding) / 2);
 
-background-image: url(../images/footer_image.jpg);
+background-image: url(../Images/footer_image.jpg);
 background-size:cover;
 position:relative;
 color: white;
