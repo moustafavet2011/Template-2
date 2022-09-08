@@ -709,7 +709,7 @@ font-size:14px;
 .quote{
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
-    background-image: url(../images/quote_image2.jfif);
+    background-image: url(./images/quote_image2.jfif);
     background-size: cover;
     position: relative;
     text-align: center;
